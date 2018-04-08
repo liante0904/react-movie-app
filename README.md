@@ -5,11 +5,11 @@
 <br />
 
 # Preview
-```
-<https://liante0904.github.io/movie-app/>
-``` 
 
-## Code Base
-```
-<https://github.com/facebook/create-react-app/>
-``` 
+<https://liante0904.github.io/movie-app>
+
+<br />
+
+# Code Base
+
+<https://github.com/facebook/create-react-app>
